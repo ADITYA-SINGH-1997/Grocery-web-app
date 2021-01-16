@@ -1,0 +1,237 @@
+[
+    {
+        "id":"1",
+        "name": "Papaya",
+        "image": "1.jpg",
+        "weight": "500",
+        "mrp": "65",
+        "sp": "60",
+        "category":"fruits",
+        "quantity": "1",
+        "discount": "10%",
+        "isAddedToCart": "false"
+        
+    },
+    {
+        "id":"2",
+        "name": "karonda",
+        "image": "2.jpg",
+        "weight": "500",
+        "mrp": "35",
+        "sp": "800",
+        "category":"fruits",
+        "quantity": "1",
+        "discount": "10%",
+        "isAddedToCart": "false"
+        
+    },
+    {
+        "id":"3",
+        "name": "abc",
+        "image": "3.jpg",
+        "weight": "500",
+        "mrp": "1200",
+        "sp": "800",
+        "category":"fruits",
+        "quantity": "1",
+        "discount": "10%",
+        "isAddedToCart": "false"
+        
+    },
+    {
+        "id":"4",
+        "name": "Mosuumi green",
+        "image": "4.jpg",
+        "weight": "500",
+        "mrp": "80",
+        "sp": "75",
+        "category":"fruits",
+        "quantity": "1",
+        "discount": "10%",
+        "isAddedToCart": "false"
+        
+    },
+    {
+        "id":"5",
+        "name": "Apple",
+        "image": "5.jpg",
+        "weight": "500",
+        "mrp": "290",
+        "sp": "265",
+        "category":"fruits",
+        "quantity": "1",
+        "discount": "10%",
+        "isAddedToCart": "false"
+        
+    },
+    {
+        "id":"6",
+        "name": "Kiwi (Fruits)",
+        "image": "6.jpg",
+        "weight": "500",
+        "mrp": "1200",
+        "sp": "800",
+        "category":"fruits",
+        "quantity": "1",
+        "discount": "10%",
+        "isAddedToCart": "false"
+        
+    }, 
+    {
+        "id":"7",
+        "name": "Loki",
+        "image": "7.jpg",
+        "weight": "500",
+        "mrp": "65",
+        "sp": "60",
+        "category":"fruits",
+        "quantity": "1",
+        "discount": "10%",
+        "isAddedToCart": "false"
+        
+    },
+    {
+        "id":"8",
+        "name": "Pumpkin",
+        "image": "8.jpg",
+        "weight": "500",
+        "mrp": "35",
+        "sp": "800",
+        "category":"fruits",
+        "quantity": "1",
+        "discount": "10%",
+        "isAddedToCart": "false"
+        
+    },
+    {
+        "id":"9",
+        "name": "Palak",
+        "image": "9.jpg",
+        "weight": "500",
+        "mrp": "1200",
+        "sp": "800",
+        "category":"fruits",
+        "quantity": "1",
+        "discount": "10%",
+        "isAddedToCart": "false"
+        
+    },
+    {
+        "id":"10",
+        "name": "Mosuumi green",
+        "image": "10.jpg",
+        "weight": "500",
+        "mrp": "80",
+        "sp": "75",
+        "category":"fruits",
+        "quantity": "1",
+        "discount": "10%",
+        "isAddedToCart": "false"
+        
+    },
+    {
+        "id":"11",
+        "name": "Onion",
+        "image": "11.jpg",
+        "weight": "500",
+        "mrp": "290",
+        "sp": "265",
+        "category":"fruits",
+        "quantity": "1",
+        "discount": "10%",
+        "isAddedToCart": "false"
+        
+    },
+    {
+        "id":"12",
+        "name": "Safal matar",
+        "image": "12.jpg",
+        "weight": "500",
+        "mrp": "1200",
+        "sp": "800",
+        "category":"fruits",
+        "quantity": "1",
+        "discount": "10%",
+        "isAddedToCart": "false"
+        
+    },
+    {
+        "id":"13",
+        "name": "Tata Sampann Arhar Dal",
+        "image": "13.jpg",
+        "weight": "500",
+        "mrp": "65",
+        "sp": "60",
+        "category":"fruits",
+        "quantity": "1",
+        "discount": "10%",
+        "isAddedToCart": "false"
+        
+    },
+    {
+        "id":"14",
+        "name": "Ghadi detergent Bar",
+        "image": "14.jpg",
+        "weight": "500",
+        "mrp": "35",
+        "sp": "800",
+        "category":"fruits",
+        "quantity": "1",
+        "discount": "10%",
+        "isAddedToCart": "false"
+        
+    },
+    {
+        "id":"15",
+        "name": "Monaco Biscuits",
+        "image": "15.jpg",
+        "weight": "500",
+        "mrp": "1200",
+        "sp": "800",
+        "category":"fruits",
+        "quantity": "1",
+        "discount": "10%",
+        "isAddedToCart": "false"
+        
+    },
+    {
+        "id":"16",
+        "name": "Haldi gram Namkeen",
+        "image": "16.jpg",
+        "weight": "500",
+        "mrp": "80",
+        "sp": "75",
+        "category":"fruits",
+        "quantity": "1",
+        "discount": "10%",
+        "isAddedToCart": "false"
+        
+    },
+    {
+        "id":"17",
+        "name": "Vim Detergent",
+        "image": "17.jpg",
+        "weight": "500",
+        "mrp": "290",
+        "sp": "265",
+        "category":"fruits",
+        "quantity": "1",
+        "discount": "10%",
+        "isAddedToCart": "false"
+        
+    },
+    {
+        "id":"18",
+        "name": "Dabar Amla",
+        "image": "18.jpg",
+        "weight": "500",
+        "mrp": "1200",
+        "sp": "800",
+        "category":"fruits",
+        "quantity": "1",
+        "discount": "10%",
+        "isAddedToCart": "false"
+        
+    }
+
+]

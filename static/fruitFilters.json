@@ -1,0 +1,26 @@
+[
+    {
+        "id":"dairy",
+        "all":"All",
+        "ccoldDrinks": "Cold Drinks"
+    },
+    {
+        "id":"fruits",
+        "all":"All"
+        
+    }, 
+    {
+        "id":"vegetables",
+        "all":"All",
+        "green":"Green"
+    }, 
+    {
+        "id":"grocery",
+        "all":"All",
+        "pulses": "Pulses",
+        "snacks":"Snacks",
+        "soaps":"Soaps"
+        
+        
+    }
+]

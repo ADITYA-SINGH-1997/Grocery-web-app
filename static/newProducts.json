@@ -1,0 +1,75 @@
+[
+    {
+        "id":"1",
+        "name": "Kiwi",
+        "image": "1.jpg",
+        "weight": "500g",
+        "mrp": "65",
+        "sp": "60",
+        "category":"New",
+        "quantity":"1",
+        "discount": "10%"
+        
+    },
+    {
+        "id":"2",
+        "name": "karonda",
+        "image": "2.jpg",
+        "weight": "500g",
+        "mrp": "35",
+        "sp": "30",
+        "category":"fruits",
+        "quantity":"1",
+        "discount": "10%"
+        
+    },
+    {
+        "id":"3",
+        "name": "Fruit",
+        "image": "3.jpg",
+        "weight": "500g",
+        "mrp": "200",
+        "sp": "180",
+        "category":"fruits",
+        "quantity":"1",
+        "discount": "10%"
+        
+    },
+    {
+        "id":"4",
+        "name": "Mango",
+        "image": "4.jpg",
+        "weight": "1000g",
+        "mrp": "50",
+        "sp": "40",
+        "category":"fruits",
+        "quantity":"1",
+        "discount": "10%"
+        
+    },
+    {
+        "id":"5",
+        "name": "Blue berry",
+        "image": "5.jpg",
+        "weight": "500g",
+        "mrp": "120",
+        "sp": "100",
+        "category":"fruits",
+        "quantity":"1",
+        "discount": "10%"
+        
+    },
+    {
+        "id":"6",
+        "name": "Apple",
+        "image": "6.jpg",
+        "weight": "500g",
+        "mrp": "200",
+        "sp": "100",
+        "category":"fruits",
+        "quantity":"1",
+        "discount": "50%"
+        
+    }
+
+]
